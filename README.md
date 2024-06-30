@@ -1,7 +1,7 @@
 # Basic Uniswap Integration Environment to provide liquidity and swap, forking a mainnet (Ethereum or Base)
 
 # open a terminal
-git clone https://github.com/...
+git clone https://github.com/pestades/uniswap-first-contract-example
 cd uniswap-hardhat-liquidity
 npm install
 
